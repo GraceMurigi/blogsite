@@ -1,0 +1,44 @@
+
+.fakeimg {
+    background-color: #aaa;
+    width: 100%;
+    padding: 20px;
+}
+
+.txt-maroon {
+    color: #4f0505;
+}
+
+.txt-light-maroon {
+    color: #763131;
+}
+
+.txt-light-maroon2 {
+    color: #b89090;
+}
+
+.bg-peach {
+    background-color: #f9d4af;
+}
+.txt-blue {
+    color: #08082f;
+}
+
+.hero-image {
+    
+    background-image:url("images/bg-hero.jpg");
+    height: 60vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
