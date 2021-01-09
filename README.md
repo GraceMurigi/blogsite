@@ -12,13 +12,8 @@ A website that allows owner to post and manage blog entries.
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
 ### Prerequisites
+* [Python 3] (https://www.python.org/downloads/)
 
-```
-Python 3 [download] (https://www.python.org/downloads/)
-```
-```
-Django 
-```
 
 ### Installation
 
@@ -59,4 +54,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Layout Inspiration : [w3schools] (https://www.w3schools.com/howto/howto_css_blog_layout.asp)
+* [w3schools] (https://www.w3schools.com/howto/howto_css_blog_layout.asp) - Layout Inspiration 
